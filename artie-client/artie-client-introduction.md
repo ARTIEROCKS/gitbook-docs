@@ -1,4 +1,4 @@
-# ARTIE Client Introduction
+# ARTIE Client
 
 ARTIE Client is the component whose function is to gather information about the user \(facial images, mouse and keyboard interactions,...\) and then to send it to ARTIE architecture. This client is composed by a central application \(the client\) and by modules \(sensors\).
 
