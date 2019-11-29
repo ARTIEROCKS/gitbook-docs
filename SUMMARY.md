@@ -7,3 +7,7 @@
 * [ARTIE Client](artie-client/artie-client-introduction.md)
 * [Creating a sensor](artie-client/developping-a-new-sensor.md)
 
+## ARTIE Bot
+
+* [ARTIE Bot](artie-bot/artie-bot.md)
+
