@@ -17,3 +17,11 @@ The components of the architecture are:
 * Pedagogical Intervention model
 * Robot system
 
+## Papers and Conferences
+
+{% embed url="https://www.frontiersin.org/articles/10.3389/fncom.2016.00077/full" %}
+
+{% embed url="https://rd.springer.com/chapter/10.1007/978-3-030-19651-6\_45" %}
+
+
+
