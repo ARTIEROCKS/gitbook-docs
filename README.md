@@ -11,7 +11,7 @@ The components of the architecture are:
 * Emotional model
 * Learning scenario
 * Pedagogical Intervention model
-* Robot system
+* [Robot system](artie-bot/artie-bot.md)
 
 ## Papers and Conferences
 
