@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## ARTIE Client
+
+* [ARTIE Client Introduction](artie-client/artie-client-introduction.md)
 
