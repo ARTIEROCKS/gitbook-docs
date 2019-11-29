@@ -5,5 +5,5 @@
 ## ARTIE Client
 
 * [ARTIE Client Introduction](artie-client/artie-client-introduction.md)
-* [Developping a new sensor](artie-client/developping-a-new-sensor.md)
+* [Creating a sensor](artie-client/developping-a-new-sensor.md)
 

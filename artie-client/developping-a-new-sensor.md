@@ -1,4 +1,4 @@
-# Developping a new sensor
+# Creating a sensor
 
 ## Getting Super Powers
 
