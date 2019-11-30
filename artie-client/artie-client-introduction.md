@@ -11,6 +11,8 @@ In ARTIE all the sensors have been followed an archetype, and an interface inclu
 * [ARTIE Common library](https://github.com/ARTIEROCKS/artie-common.git)
 * [ARTIE Sensor archetype](https://github.com/ARTIEROCKS/artie-sensor-archetype.git)
 
+You can find the ARTIE Client in this repository: [ARTIE Client](https://github.com/ARTIEROCKS/artie-client.git).
+
 Currently, the following ARTIE Sensors have been developped:
 
 * [Keyboard and Mouse Sensor](https://github.com/ARTIEROCKS/artie-sensor-keyboard-mouse.git).
