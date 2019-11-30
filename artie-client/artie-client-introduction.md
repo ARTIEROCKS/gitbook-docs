@@ -15,6 +15,7 @@ Currently, the following ARTIE Sensors have been developped:
 
 * [Keyboard and Mouse Sensor](https://github.com/ARTIEROCKS/artie-sensor-keyboard-mouse.git).
 * [Screen Sensor](https://github.com/ARTIEROCKS/artie-sensor-screen.git).
+* [Webcam Sensor](https://github.com/ARTIEROCKS/artie-sensor-webcam.git).
 
 
 
