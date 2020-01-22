@@ -2,13 +2,13 @@
 
 ## Introduction
 
-## Interface
+## Sensor Interface
 
 ![ARTIE Client and Sensor deployment diagram](../.gitbook/assets/deployment-diagrams.png)
 
-### Standalone
+### Standalone mode
 
-### Client communication
+### Client communication mode
 
 
 
