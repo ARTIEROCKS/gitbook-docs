@@ -2,7 +2,7 @@
 
 ARTIE \(Affective Robot Tutor Integrated Environment\) is an architectural pattern which integrates any given educational software for primary school children with a component whose function is to identify the emotional state of the students who are interacting with the software, and with the driver of a robot tutor which provides personalized emotional pedagogical support to the students.
 
-![ARTIE architectural pattern](.gitbook/assets/artie_architectural_pattern.jpg)
+![ARTIE Architectural Pattern](.gitbook/assets/artie_architectural_pattern_2.0.png)
 
 The components of the architecture are:
 
