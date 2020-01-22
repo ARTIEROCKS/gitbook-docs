@@ -5,7 +5,7 @@
 ## ARTIE Client
 
 * [ARTIE Client](artie-client/artie-client-introduction.md)
-* [Sensor Architecture](artie-client/sensor-architecture.md)
+* [Sensor architecture](artie-client/sensor-architecture.md)
 * [Creating a sensor](artie-client/developping-a-new-sensor.md)
 
 ## ARTIE Bot

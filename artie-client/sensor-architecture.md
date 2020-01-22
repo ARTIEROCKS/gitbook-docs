@@ -1,4 +1,14 @@
-# Sensor Architecture
+# Sensor architecture
 
-All the sensors can be executed independently or in communication with the client.
+## Introduction
+
+## Interface
+
+![ARTIE Client and Sensor deployment diagram](../.gitbook/assets/deployment-diagrams.png)
+
+### Standalone
+
+### Client communication
+
+
 
