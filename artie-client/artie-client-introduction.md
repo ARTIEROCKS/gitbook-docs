@@ -6,7 +6,7 @@ All the components of this architecture are based in Springboot 2.
 
 ![ARTIE Client module schema](../.gitbook/assets/artieclient.png)
 
-In ARTIE all the sensors have been followed an archetype, and an interface included in the ARTIE Sensor Common libraray,  to be integrated in the client:
+In ARTIE all the sensors have been followed an archetype, and an interface included in the ARTIE Sensor Common library,  to be integrated in the client:
 
 * [ARTIE Sensor Common library](https://github.com/ARTIEROCKS/artie-common.git)
 * [ARTIE Sensor archetype](https://github.com/ARTIEROCKS/artie-sensor-archetype.git)
