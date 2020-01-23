@@ -8,8 +8,8 @@ All the components of this architecture are based in Springboot 2.
 
 In ARTIE, all the sensors have been followed an archetype, and implemented an interface included in ARTIE Sensor Common library,  to be integrated in the client:
 
-* [ARTIE Sensor Common library](https://github.com/ARTIEROCKS/artie-common.git)
-* [ARTIE Sensor archetype](https://github.com/ARTIEROCKS/artie-sensor-archetype.git)
+* [ARTIE Sensor Common library](https://github.com/ARTIEROCKS/artie-common.git).
+* [ARTIE Sensor archetype](https://github.com/ARTIEROCKS/artie-sensor-archetype.git).
 * [ARTIE Client](https://github.com/ARTIEROCKS/artie-client.git).
 
 Currently, the following ARTIE Sensors have been developped:
